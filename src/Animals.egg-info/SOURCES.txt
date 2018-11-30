@@ -1,0 +1,9 @@
+setup.py
+src/Birds.py
+src/Mammals.py
+src/Animals.egg-info/PKG-INFO
+src/Animals.egg-info/SOURCES.txt
+src/Animals.egg-info/dependency_links.txt
+src/Animals.egg-info/not-zip-safe
+src/Animals.egg-info/requires.txt
+src/Animals.egg-info/top_level.txt
